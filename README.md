@@ -1,7 +1,6 @@
 - 👋 Hi, My name is Will Lee.
 - 👀 I’m interested in becoming a software engineer.
 - 🌱 I’m currently learning a low/high-level languages, C, C# and Python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at wgbnlee@gmail.com.
 
 <!---
