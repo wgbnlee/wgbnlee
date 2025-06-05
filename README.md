@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Woongbeen Lee.
+- 👋 Hi, My name is Will Lee.
 - 👀 I’m interested in becoming a software engineer.
-- 🌱 I’m currently learning a low-level language, C and the utilization of GitHub.
+- 🌱 I’m currently learning a low/high-level languages, C, C# and Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me wgbnlee@gmail.com.
+- 📫 Reach me at wgbnlee@gmail.com.
 
 <!---
 wgbnlee/wgbnlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
